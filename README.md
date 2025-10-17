@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohamed Alwafy (iam-meddi)
 
-<!--
-**iam-meddi/iam-meddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master's Student — Data Science @ Wichita State University**  
+Aspiring to become a top data scientist: building end-to-end ML solutions, strong data engineering foundations, and practical product/communication skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current focus
+- Mastering ML fundamentals: supervised & unsupervised learning, model evaluation.
+- Building a portfolio of end-to-end projects (data cleaning → modeling → deployment).
+- Networking with professionals and contributing to open-source/data projects.
+
+## 🛠️ Skills
+- **Languages:** Python (pandas, numpy), SQL, R (basic)
+- **ML / Tools:** scikit-learn, XGBoost, TensorFlow (intro), MLflow (basic)
+- **Data viz:** matplotlib, seaborn, plotly
+- **Other:** Git, GitHub, Jupyter, Docker (learning), AWS (learning)
